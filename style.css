@@ -392,3 +392,19 @@ footer {
     }
 
 }
+@media only screen and (max-width:410px) {
+    .home{
+        height: 40rem;
+    }
+    .home img{
+        height: 40rem;
+    }
+    .mabout {
+        height: 147rem;
+    }
+
+    .mabout .bg {
+        height: 147rem;
+    }
+
+}
